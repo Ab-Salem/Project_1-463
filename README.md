@@ -2,7 +2,7 @@
 
 This Program analyzes a large financial dataset (CSV file) to detect patterns, trends, and anomalies. The program uses divide-and-conquer techniques to efficiently process, analyze, and report on financial data for decision-making purposes.
 
-#How To Use:
+# How To Use:
 
 1. Install the Required Library through the terminal: 'pip install matplotlib'
 2. Ensure the CSV is in the main directory of the Program (IF USING DIFFERENT CSV FILE FOR FINANCIAL DATA, PLEASE ENSURE COLUMN NAMES ARE: Date,Last,Volume,Open,High,Low)
